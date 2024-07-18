@@ -12,5 +12,5 @@
 
 ### Adriana Delgado
 
-### Linkedin: https://www.linkedin.com/in/adriana-delgado-nalvarte-028935313/
+### Linkedin: [https://www.linkedin.com/in/adriana-delgado-nalvarte-028935313/](https://www.linkedin.com/in/adriana-delgado-profile/)
 ### URL Portafolio: https://portafolio-phi-jet.vercel.app/
