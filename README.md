@@ -10,7 +10,7 @@
 
 ## Hecho por:
 
-### Adriana Delgado
+### Adriana Delgado en Alura
 
 ### Linkedin: https://www.linkedin.com/in/adriana-delgado-profile/
 ### URL Portafolio: https://portafolio-phi-jet.vercel.app/
